@@ -1,4 +1,4 @@
-# 🚀 Ultimate Data Science & GenAI Bootcamp – Phase-wise Roadmap
+# 🚀 Ultimate Data Science & GenAI  – Phase-wise Roadmap
 
 A structured journey from programming foundations to autonomous multi-agent AI systems.
 
