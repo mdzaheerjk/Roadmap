@@ -1,4 +1,4 @@
-# 🚀 Ultimate Data Science & GenAI  – Phase-wise Roadmap
+# 🚀 Ultimate Data Science, Computer Vision & GenAI – Phase-wise Roadmap
 
 A structured journey from programming foundations to autonomous multi-agent AI systems.
 
@@ -8,69 +8,69 @@ A structured journey from programming foundations to autonomous multi-agent AI s
 
 > Build the technical base required for AI engineering.
 
-### 🔹 Python Programming
-- Data types, variables, control flow
-- Functions & modular programming
-- Object-Oriented Programming (OOP)
-- File handling & exception management
-- Concurrency basics
+## 🔹 Python Programming
+- Data types, variables, control flow  
+- Functions & modular programming  
+- Object-Oriented Programming (OOP)  
+- File handling & exception handling  
+- Virtual environments  
+- Concurrency basics  
 
-### 🔹 Numerical Computing
-- NumPy arrays & broadcasting
-- Matrix operations
-- Statistical computations
+## 🔹 Numerical Computing
+- NumPy arrays & broadcasting  
+- Linear algebra fundamentals  
+- Matrix operations  
+- Statistical computations  
 
-### 🔹 Data Analysis
-- Pandas (DataFrames, filtering, transformations)
-- Data cleaning & preprocessing
-- Text & date handling
+## 🔹 Data Analysis
+- Pandas (DataFrames, filtering, transformations)  
+- Data cleaning & preprocessing  
+- Missing value handling  
+- Date & text processing  
 
-### 🔹 Data Visualization
-- Matplotlib & Seaborn
-- Statistical plotting
-- Data storytelling
+## 🔹 Data Visualization
+- Matplotlib  
+- Seaborn  
+- Statistical plotting  
+- Data storytelling  
 
-### 🔹 Databases
-- PostgreSQL (Supabase)
-- MongoDB Atlas
-- SQL queries, joins, indexing
+## 🔹 Databases
+- PostgreSQL  
+- MongoDB  
+- SQL queries, joins, indexing  
 
-### 🔹 Streamlit Applications
-- Interactive dashboards
-- Session state handling
-- Data-driven web apps
+## 🔹 Streamlit Applications
+- Interactive dashboards  
+- Session state  
+- Data-driven web apps  
 
 ---
 
 # 📐 Phase 2: Statistics & Probability
 
-> Develop mathematical intuition for data-driven reasoning.
+> Develop mathematical intuition for machine learning.
 
-### 🔹 Descriptive Statistics
-- Mean, median, mode
-- Variance & standard deviation
-- Skewness & kurtosis
+## 🔹 Descriptive Statistics
+- Mean, median, mode  
+- Variance & standard deviation  
+- Skewness & kurtosis  
 
-### 🔹 Probability Theory
-- Random variables
-- Probability distributions:
-  - Binomial
-  - Poisson
-  - Normal
-  - Bernoulli
-  - Uniform
-- Central Limit Theorem
+## 🔹 Probability Theory
+- Random variables  
+- Bernoulli, Binomial, Poisson  
+- Normal & Uniform distributions  
+- Central Limit Theorem  
 
-### 🔹 Inferential Statistics
-- Confidence intervals
-- Hypothesis testing
-- P-values & statistical significance
-- Chi-square tests
+## 🔹 Inferential Statistics
+- Confidence intervals  
+- Hypothesis testing  
+- P-values  
+- Chi-square tests  
 
-### 🔹 Bayesian Statistics
-- Bayes theorem
-- Probabilistic reasoning
-- Model refinement with Bayesian inference
+## 🔹 Bayesian Statistics
+- Bayes theorem  
+- Bayesian inference  
+- Probabilistic reasoning  
 
 ---
 
@@ -78,167 +78,260 @@ A structured journey from programming foundations to autonomous multi-agent AI s
 
 > Apply statistical foundations to predictive modeling.
 
-### 🔹 Feature Engineering
-- Handling missing values
-- Scaling & normalization
-- Encoding categorical variables
-- Feature selection techniques
+## 🔹 Feature Engineering
+- Scaling & normalization  
+- Encoding categorical variables  
+- Feature selection  
 
-### 🔹 Exploratory Data Analysis (EDA)
-- Pattern discovery
-- Trend analysis
-- Case-based modeling insights
+## 🔹 Supervised Learning
+- Linear & Logistic Regression  
+- KNN  
+- Naive Bayes  
+- SVM  
+- Decision Trees  
 
-### 🔹 Supervised Learning
-- Linear Regression
-- Logistic Regression
-- Support Vector Machines (SVM)
-- KNN
-- Naive Bayes
-- Decision Trees
-- Evaluation metrics (Accuracy, Precision, Recall, F1, ROC)
+## 🔹 Ensemble Methods
+- Random Forest  
+- Gradient Boosting  
+- XGBoost  
 
-### 🔹 Ensemble Methods
-- Random Forest
-- Gradient Boosting
-- XGBoost
-- Out-of-Bag evaluation
+## 🔹 Unsupervised Learning
+- K-Means  
+- Hierarchical clustering  
 
-### 🔹 Unsupervised Learning
-- K-Means clustering
-- Cluster evaluation
+## 🔹 Model Evaluation
+- Accuracy, Precision, Recall  
+- F1 Score  
+- ROC-AUC  
 
 ---
 
-# 🧠 Phase 4: Deep Learning & NLP
+# 👁️ Phase 4: Computer Vision Foundations
 
-> Move from classical ML to neural architectures.
+> Understand how machines interpret visual data.
 
-### 🔹 Deep Learning Foundations
-- Neural Networks & backpropagation
-- Activation functions
-- Loss functions & optimizers
-- Regularization (Dropout, BatchNorm)
-- Keras & PyTorch
+## 🔹 Image Processing
+- RGB vs Grayscale  
+- Filtering (Gaussian, Median)  
+- Edge detection (Sobel, Canny)  
+- Thresholding  
+- Morphological operations  
 
-### 🔹 Advanced Deep Learning
-- RNN, LSTM, GRU
-- Attention mechanisms
-- Transformers
-- BERT & GPT architectures
+## 🔹 OpenCV
+- Image I/O  
+- Contours  
+- Video processing  
+- Real-time webcam pipelines  
 
-### 🔹 NLP for Machine Learning
-- Tokenization & preprocessing
-- TF-IDF
-- Word2Vec
-- Named Entity Recognition
-
----
-
-# 🌟 Phase 5: Generative AI & RAG Systems
-
-> Build modern LLM-powered systems.
-
-### 🔹 Generative AI Foundations
-- Generative vs Discriminative models
-- LLM architecture basics
-- Industry applications
-
-### 🔹 Vector Databases
-- Embeddings & similarity search
-- Chroma, FAISS, Pinecone
-- Indexing strategies
-
-### 🔹 Retrieval-Augmented Generation (RAG)
-- RAG pipeline design
-- Hybrid search
-- Memory integration
-- Multimodal RAG
-
-### 🔹 LangChain
-- Chains & tools
-- Prompt engineering
-- Agents & monitoring
-- Deployment workflows
+## 🔹 Classical Computer Vision
+- SIFT, SURF, ORB  
+- Feature matching  
+- Homography  
+- Background subtraction  
 
 ---
 
-# 🤖 Phase 6: Agentic AI & Autonomous Systems
+# 🧠 Phase 5: Deep Learning
 
-> Build AI systems that reason, plan, and collaborate.
+> Core neural network foundations.
 
-### 🔹 Agentic AI Foundations
-- Agentic vs Generative AI
-- Multi-agent systems
-- Autonomous decision-making
+## 🔹 Foundations
+- Neural Networks  
+- Backpropagation  
+- Activation functions  
+- Loss functions  
+- Optimizers  
+- Regularization  
+- PyTorch / TensorFlow  
 
-### 🔹 LangGraph
-- Graph-based workflows
-- State management
-- Memory optimization
-- Deployment & execution
+## 🔹 Convolutional Neural Networks (CNN)
+- Convolution & pooling  
+- Transfer learning  
+- ResNet  
+- EfficientNet  
 
-### 🔹 Human-in-the-Loop Systems
-- Real-time streaming
-- Breakpoints & debugging
-- Explainable workflows
+## 🔹 Object Detection
+- R-CNN family  
+- SSD  
+- YOLO  
 
-### 🔹 Agentic RAG Architectures
-- Adaptive RAG
-- Contextual RAG (C-RAG)
-- Self-RAG systems
+## 🔹 Image Segmentation
+- U-Net  
+- Mask R-CNN  
 
-### 🔹 Model Context Protocol (MCP)
-- MCP architecture
-- Tool interoperability
-- MCP server development
-
----
-
-# 🧩 Phase 7: Multi-Agent Systems & Production Deployment
-
-> Full-stack autonomous AI engineering.
-
-### 🔹 Multi-Agent Architectures
-- Specialized agents (Search, Reader, Analyst, Generator)
-- Collaborative workflows
-- Memory & communication management
-
-### 🔹 Tool Integration
-- API integrations
-- External knowledge integration
-- RAG-enabled agent systems
-
-### 🔹 Deployment & DevOps
-- FastAPI backend
-- Docker containerization
-- GitHub Actions CI/CD
-- AWS EC2 deployment
-- Monitoring & logging systems
+## 🔹 Vision Transformers
+- ViT  
+- Multimodal embeddings  
 
 ---
 
-# 🏆 Phase 8: End-to-End Capstone Projects
+# 📝 Phase 6: Natural Language Processing (NLP)
 
-> Production-ready AI systems.
+> Build strong language intelligence systems.
 
-### 🔹 Data Engineering
-- Review Scraper
-- Supabase + Streamlit App
+## 🔹 NLP Foundations
+- Text preprocessing  
+- Tokenization  
+- Stemming & Lemmatization  
+- Stopword removal  
 
-### 🔹 Machine Learning
-- Network Intrusion Detection System
+## 🔹 Text Feature Engineering
+- Bag of Words  
+- TF-IDF  
+- N-grams  
 
-### 🔹 Deep Learning
-- Text Summarization
-- Machine Translation
-- Question Answering
+## 🔹 Word Embeddings
+- Word2Vec  
+- GloVe  
+- FastText  
 
-### 🔹 Generative AI
-- RAG Q&A System with CI/CD Integration
+## 🔹 Sequence Models
+- RNN  
+- LSTM  
+- GRU  
+
+## 🔹 Attention & Transformers
+- Attention mechanism  
+- Transformer architecture  
+- BERT  
+- GPT  
+
+## 🔹 Advanced NLP Tasks
+- Text classification  
+- Named Entity Recognition  
+- Sentiment analysis  
+- Question answering  
+- Machine translation  
+
+---
+
+# 🌟 Phase 7: Generative AI & Multimodal Systems
+
+> Move beyond prediction into generation.
+
+## 🔹 Generative AI Foundations
+- Generative vs Discriminative models  
+- Transformer internals  
+- LLM architecture basics  
+
+## 🔹 Large Language Models
+- Prompt engineering  
+- Fine-tuning basics  
+- Instruction tuning  
+- Alignment concepts  
+
+## 🔹 Image Generation
+- GANs  
+- Diffusion models  
+- Stable Diffusion  
+
+## 🔹 Vision-Language Models
+- CLIP  
+- BLIP  
+- LLaVA  
+
+---
+
+# 📦 Phase 8: Retrieval-Augmented Generation (RAG)
+
+> Build knowledge-grounded AI systems.
+
+## 🔹 Vector Databases
+- Embeddings  
+- Similarity search  
+- FAISS  
+- Pinecone  
+- Chroma  
+
+## 🔹 RAG Architecture
+- Document ingestion  
+- Chunking strategies  
+- Hybrid search  
+- Memory integration  
+
+## 🔹 Multimodal RAG
+- Image + text retrieval  
+- OCR + LLM pipelines  
+
+---
+
+# 🤖 Phase 9: Agentic AI & Autonomous Systems
+
+> Build reasoning and planning systems.
+
+## 🔹 Agentic Foundations
+- Agents vs LLMs  
+- Multi-agent systems  
+- Planning strategies  
+
+## 🔹 LangChain
+- Chains  
+- Tools  
+- Monitoring  
+
+## 🔹 LangGraph
+- Graph workflows  
+- State management  
+- Memory optimization  
+
+---
+
+# 🧩 Phase 10: Production Deployment & Multi-Agent Systems
+
+> Full-stack AI engineering.
+
+## 🔹 Backend & APIs
+- FastAPI  
+- REST APIs  
+
+## 🔹 DevOps
+- Docker  
+- GitHub Actions  
+- AWS EC2 deployment  
+
+## 🔹 Vision Deployment
+- ONNX  
+- Quantization  
+- Edge deployment  
+
+## 🔹 Monitoring
+- Logging  
+- Performance optimization  
+- Latency & scaling  
+
+---
+
+# 🏆 Phase 11: End-to-End Capstone Projects
+
+## 🔹 Machine Learning
+- Network Intrusion Detection  
+
+## 🔹 Computer Vision
+- Real-time Face Recognition  
+- AI Attendance System  
+- Object Detection System  
+
+## 🔹 NLP
+- Text Summarization  
+- Question Answering  
+- Machine Translation  
+
+## 🔹 Generative AI
+- RAG Q&A System  
+- Multimodal AI Assistant  
 
 ---
 
 # 🎯 Final Progression Path
 
-Python → Statistics → Machine Learning → Deep Learning → Generative AI → RAG → Agentic AI → Multi-Agent Deployment
+Python  
+→ Statistics  
+→ Machine Learning  
+→ Computer Vision  
+→ Deep Learning  
+→ NLP  
+→ Generative AI  
+→ RAG  
+→ Agentic AI  
+→ Multi-Agent Deployment  
+→ Production Systems  
