@@ -78,16 +78,32 @@ A structured journey from programming foundations to autonomous multi-agent AI s
 
 > Apply statistical foundations to predictive modeling.
 
+## 🔹 Exploratory Data Analysis (EDA)
+- Understanding dataset structure (shape, types, summary stats)  
+- Detecting missing values & outliers  
+- Univariate analysis (distribution plots, histograms, boxplots)  
+- Bivariate analysis (correlation, scatter plots, pair plots)  
+- Multivariate analysis  
+- Correlation matrix & heatmaps  
+- Data imbalance analysis  
+- Identifying data leakage  
+- Generating business insights from data  
+
 ## 🔹 Feature Engineering
+- Handling missing values  
+- Outlier treatment  
 - Scaling & normalization  
 - Encoding categorical variables  
 - Feature selection  
+- Feature transformation (log, polynomial features)  
+- Dimensionality reduction (PCA basics)  
 
 ## 🔹 Supervised Learning
-- Linear & Logistic Regression  
+- Linear Regression  
+- Logistic Regression  
 - KNN  
 - Naive Bayes  
-- SVM  
+- Support Vector Machines (SVM)  
 - Decision Trees  
 
 ## 🔹 Ensemble Methods
@@ -97,12 +113,18 @@ A structured journey from programming foundations to autonomous multi-agent AI s
 
 ## 🔹 Unsupervised Learning
 - K-Means  
-- Hierarchical clustering  
+- Hierarchical Clustering  
+- DBSCAN  
 
 ## 🔹 Model Evaluation
-- Accuracy, Precision, Recall  
+- Train/Test split  
+- Cross-validation  
+- Accuracy  
+- Precision  
+- Recall  
 - F1 Score  
 - ROC-AUC  
+- Confusion Matrix   
 
 ---
 
