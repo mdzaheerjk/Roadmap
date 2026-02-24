@@ -14,19 +14,23 @@ A structured journey from programming foundations to autonomous multi-agent AI s
 - Object-Oriented Programming (OOP)  
 - File handling & exception handling  
 - Virtual environments  
-- Concurrency basics  
+- Concurrency basics
 
-## 🔹 Numerical Computing
+### Repository ![GitHub](https://img.shields.io/badge/View_on-GitHub-181717?logo=github)()
+
+## 🔹 Numerical Computing  
 - NumPy arrays & broadcasting  
 - Linear algebra fundamentals  
 - Matrix operations  
 - Statistical computations  
+### Repository ![GitHub](https://img.shields.io/badge/View_on-GitHub-181717?logo=github)()
 
 ## 🔹 Data Analysis
 - Pandas (DataFrames, filtering, transformations)  
 - Data cleaning & preprocessing  
 - Missing value handling  
 - Date & text processing  
+### Repository ![GitHub](https://img.shields.io/badge/View_on-GitHub-181717?logo=github)()
 
 ## 🔹 Data Visualization
 - Matplotlib  
