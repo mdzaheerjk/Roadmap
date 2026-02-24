@@ -36,12 +36,11 @@ A structured journey from programming foundations to autonomous multi-agent AI s
 - Seaborn  
 - Statistical plotting  
 - Data storytelling  
-
+##### 🔗 Repository   [![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-181717?logo=github&logoColor=white)](https://github.com/mdzaheerjk/Matplotlib-and-Seaborn.git)
 ## 🔹 Databases
 - PostgreSQL  
 - MongoDB  
 - SQL queries, joins, indexing  
-
 ## 🔹 Streamlit Applications
 - Interactive dashboards  
 - Session state  
