@@ -16,8 +16,7 @@ A structured journey from programming foundations to autonomous multi-agent AI s
 - Virtual environments  
 - Concurrency basics
 
-### Repository ![GitHub](https://img.shields.io/badge/View_on-GitHub-181717?logo=github)()
-
+##### 🔗 Repository   [![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-181717?logo=github&logoColor=white)](https://github.com/mdzaheerjk/Python.git)
 ## 🔹 Numerical Computing  
 - NumPy arrays & broadcasting  
 - Linear algebra fundamentals  
