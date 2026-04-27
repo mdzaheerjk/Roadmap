@@ -25,18 +25,18 @@
 
 ## 📌 Quick Navigation
 
-| # | Phase | Focus | Duration |
-|---|-------|-------|----------|
-| 🧱 1 | [Programming & Data Foundations](#-phase-1-programming--data-foundations) | Python, NumPy, Pandas, SQL | 6–8 weeks |
-| 📐 2 | [Statistics & Probability](#-phase-2-statistics--probability) | Math for ML | 4–5 weeks |
-| 🤖 3 | [Machine Learning](#-phase-3-machine-learning) | Supervised, Unsupervised, Ensembles | 8–10 weeks |
-| 👁️ 4 | [Computer Vision Foundations](#️-phase-4-computer-vision-foundations) | OpenCV, Feature Extraction | 3–4 weeks |
-| 🧠 5 | [Deep Learning](#-phase-5-deep-learning) | PyTorch, CNNs, Detection, Segmentation | 6–8 weeks |
-| 📝 6 | [Natural Language Processing](#-phase-6-natural-language-processing-nlp) | Text, Embeddings, Transformers | 5–6 weeks |
-| 🌟 7 | [Generative AI & Multimodal Systems](#-phase-7-generative-ai--multimodal-systems) | LLMs, Diffusion, Vision-Language | 4–5 weeks |
-| 📦 8 | [Retrieval-Augmented Generation (RAG)](#-phase-8-retrieval-augmented-generation-rag) | Vector DBs, Chunking, Hybrid Search | 3–4 weeks |
-| 🤖 9 | [Agentic AI & Autonomous Systems](#-phase-9-agentic-ai--autonomous-systems) | LangChain, LangGraph, Planning | 4–5 weeks |
-| 🚀 10 | [Production Deployment](#-phase-10-production-deployment--multi-agent-systems) | FastAPI, Docker, AWS, Monitoring | 4–5 weeks |
+| # | Phase | Focus | 
+|---|-------|-------|
+| 🧱 1 | [Programming & Data Foundations](#-phase-1-programming--data-foundations) | Python, NumPy, Pandas, SQL | 
+| 📐 2 | [Statistics & Probability](#-phase-2-statistics--probability) | Math for ML | 
+| 🤖 3 | [Machine Learning](#-phase-3-machine-learning) | Supervised, Unsupervised, Ensembles | 
+| 👁️ 4 | [Computer Vision Foundations](#️-phase-4-computer-vision-foundations) | OpenCV, Feature Extraction | 
+| 🧠 5 | [Deep Learning](#-phase-5-deep-learning) | PyTorch, CNNs, Detection, Segmentation | 
+| 📝 6 | [Natural Language Processing](#-phase-6-natural-language-processing-nlp) | Text, Embeddings, Transformers | 
+| 🌟 7 | [Generative AI & Multimodal Systems](#-phase-7-generative-ai--multimodal-systems) | LLMs, Diffusion, Vision-Language | 
+| 📦 8 | [Retrieval-Augmented Generation (RAG)](#-phase-8-retrieval-augmented-generation-rag) | Vector DBs, Chunking, Hybrid Search | 
+| 🤖 9 | [Agentic AI & Autonomous Systems](#-phase-9-agentic-ai--autonomous-systems) | LangChain, LangGraph, Planning | 
+| 🚀 10 | [Production Deployment](#-phase-10-production-deployment--multi-agent-systems) | FastAPI, Docker, AWS, Monitoring | 
 | 🏆 11 | [Capstone Projects](#-phase-11-end-to-end-capstone-projects) | End-to-end real-world builds | Ongoing |
 
 ---
