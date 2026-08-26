@@ -2,6 +2,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=Data+Science+%26+GenAI+Roadmap;From+Zero+%E2%86%92+AI+Engineer;Python+%E2%86%92+LLMs+%E2%86%92+Agents" alt="Typing SVG" />
 
+
 <br/> 
 
 ![Phases](https://img.shields.io/badge/Phases-11-6C63FF?style=for-the-badge&logoColor=white)
